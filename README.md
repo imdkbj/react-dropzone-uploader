@@ -27,9 +27,14 @@ React Dropzone Uploader is a customizable file dropzone and uploader for React.
 
 
 ## Installation
-`npm install https://github.com/imdkbj/react-dropzone-uploader`
 
-`yarn add https://github.com/imdkbj/react-dropzone-uploader`
+~~~js
+npm install https://github.com/imdkbj/react-dropzone-uploader
+~~~
+
+~~~js
+yarn add https://github.com/imdkbj/react-dropzone-uploader
+~~~
 
 Import default styles in your app.
 
